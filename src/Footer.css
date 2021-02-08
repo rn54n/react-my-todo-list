@@ -1,0 +1,13 @@
+footer {
+  padding: 10px;
+  font-size: 0.6rem;
+}
+
+footer > p > a,
+footer > p > a:visited {
+  color: white;
+}
+
+footer > p > a:hover {
+  color: palevioletred;
+}

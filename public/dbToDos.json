@@ -1,0 +1,24 @@
+{
+  "toDos": [
+    {
+      "id": 1,
+      "text": "Be kind towards yourself.",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "Practice Meditation on daily basis.",
+      "done": true
+    },
+    {
+      "text": "Do not give yourself too much of hard time.",
+      "done": true,
+      "id": 3
+    },
+    {
+      "text": "Hug someone.",
+      "done": false,
+      "id": 4
+    }
+  ]
+}

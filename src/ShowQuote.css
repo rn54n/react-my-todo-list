@@ -1,0 +1,16 @@
+.randomQuote {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.randomQuote > blockquote {
+  font-weight: 600;
+  text-align: justify;
+  transition-timing-function: ease-out;
+  transition: all 0.5s;
+  font-style: italic;
+}
+
+.randomQuote > span {
+  float: right;
+}
